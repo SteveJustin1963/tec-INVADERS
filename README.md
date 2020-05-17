@@ -3,4 +3,4 @@ TEC-1 Space Invaders on 8X8 Matrix
 
 
 ## Iterate
-display on OLED
+display on tec-OLED
